@@ -6,4 +6,8 @@ public class Birds
   {
     return 2;
   }
+  private String getName()
+  {
+    return "Hawk";
+  }
 }
